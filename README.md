@@ -1,4 +1,4 @@
-## 👨‍🦱👩‍🦳 Verificador de Idade com Gênero 
+## 👨‍🦱👩‍🦳 Descrição
 
 Este projeto é um verificador de idade interativo em HTML, CSS e JavaScript. Através de uma interface simples, o usuário insere o ano de nascimento e seleciona seu sexo (masculino ou feminino) para calcular sua idade. Dependendo da faixa etária e do sexo, o sistema exibe uma imagem representativa da fase da vida da pessoa. 🧑‍🦰👵
 
